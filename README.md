@@ -1,7 +1,7 @@
 # cancer-chemo-identifiability
 Code for structural and practical identifiability of two cancer chemotherapy models. This is the source code for:
 
-A Confidence Building Exercise in Data and Identifiability: Modeling Cancer Chemotherapy as a Case Study. Marisa C. Eisenberg and Harsh V. Jain (equal coauthors). In revision. 
+[A Confidence Building Exercise in Data and Identifiability: Modeling Cancer Chemotherapy as a Case Study](http://www.sciencedirect.com/science/article/pii/S0022519317303454). Marisa C. Eisenberg and Harsh V. Jain (equal coauthors). J. Theoretical Biology, 431: 63-78. 
 
 Questions? Contact Harsh Jain (hjain@fsu.edu) or Marisa Eisenberg (marisae@umich.edu).
 
